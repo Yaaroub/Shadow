@@ -1,0 +1,38 @@
+body{
+    background-color: khaki;
+}
+section {
+  width: 500px;
+  margin: auto;
+  padding-top: 50px;
+}
+.inset{
+    width: 300px;
+    height: 100px;
+    box-shadow: inset -1px -1px 5px rgba(0, 0, 0, 0.644);
+    
+}
+.elevation1 {
+  width: 300px;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.459);
+  height: 100px;
+}
+.elevation2 {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.425);
+  width: 300px;
+  height: 100px;
+}
+.elevation3 {
+  width: 300px;
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.253);
+  height: 100px;
+}
+.elevation4 {
+  width: 300px;
+box-shadow: 20px 15px 20px rgba(0, 0, 0, 0.171);
+  height: 100px;
+}
+.elevation5 {
+  width: 300px;
+box-shadow: 25px 15px 20px rgba(0, 0, 0, 0.185);  height: 100px;
+}
